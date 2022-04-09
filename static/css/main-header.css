@@ -1,6 +1,6 @@
 .main-header {
     display: flex;
-    height: 80px;
+    min-height: 80px;
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
@@ -16,8 +16,8 @@
 
 .main-header nav {
     display: flex;
-    gap: 10px;
-    
+    gap: 15px;
+    align-items: center;
 }
 
 .main-header .main-action {
@@ -26,4 +26,15 @@
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
+    padding: 10px 0;
+}
+
+.main-header .main-action:hover {
+    color: #000;
+    text-shadow: 0 0 15px #FFF
+}
+
+.main-header .avatar {
+    height: 50px;
+    cursor: pointer;
 }
