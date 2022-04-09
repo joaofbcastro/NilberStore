@@ -27,7 +27,7 @@ body {
     justify-content: center;
     width: 400px;
     padding: 35px;
-    background-color: #ddd;
+    background-color: #DDDDDDEE;
     border-radius: 8px;
 }
 
@@ -92,4 +92,20 @@ body {
 .login-area p a {
     color: #e96d00;
     text-decoration: none;
+}
+
+/* Index */
+
+.products-section {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 120px;
+}
+
+.products-section .products-area {
+    width: 70vw;
+    height: 70vh;
+    border-radius: 8px;
+    background-color: #DDDDDDEE;
 }
