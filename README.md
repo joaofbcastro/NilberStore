@@ -14,7 +14,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 O que é?
 
 Nilber Store é um projeto que demonstra as minhas habilidade em criação de formulários com login cadastro e home, porém sem funcionalidade.
-
-## 🔖 Sobre o Layout
-
-Você pode visualizar o layout proposto pelo projeto através [desse link](https://efficient-sloth-d85.notion.site/Maratona-Explorer-2-0-7ed52d87338e472e9fc7c25180ca933f).
